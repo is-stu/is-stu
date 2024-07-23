@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/is-stu/is-stu/blob/master/Coder.webp" alt="Coder" />
+</p>
+
 <h1 align="center">Hey🤙🏽, I'm Stewar AKA Stu</h1>
 <h3 align="center">A fullstack developer from Colombia</h3>
 
