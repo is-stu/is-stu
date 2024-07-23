@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/is-stu/is-stu/blob/master/Coder.webp" alt="Coder" />
+  <img src="https://github.com/is-stu/is-stu/blob/master/Coder.webp" alt="Coder" width="200" height="200" />
 </p>
 
 <h1 align="center">Hey🤙🏽, I'm Stewar AKA Stu</h1>
